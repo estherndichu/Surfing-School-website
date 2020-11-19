@@ -1,3 +1,185 @@
-h1 {
-    color: blue;
+.header{
+    position: absolute;
+    width: 1440px;
+    height: 127px;
+    left: 0px;
+    top: 0px;
+    background: #000000;
+}
+h1{
+   position: absolute;
+   width: 487px;
+   height: 61px;
+   left: 411px;
+   top: 27px;
+   font: Ramemetto One;
+   font-weight: 400;
+   font-style: normal;
+   font-size: 36px;
+   line-height: 60.8px;
+   color: #36d6ec;
+   border: 1px solid #F0190B
+   text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+}
+.navbar{
+    position: absolute;
+    width: 1440px;
+    height: 127px;
+    left: 0px;
+    top: 80px;
+    background: #46A7D1;
+     
+}
+.home{
+    position: absolute;
+    height: 50px;
+    width: 56px;
+    left: 870px;
+    top: 95px;
+
+font-family: 'Roboto';
+font-size: 20px;
+font-style: italic;
+font-weight: 700;
+line-height: 23.44px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+
+}
+.about{
+    position: absolute;
+    height: 27px;
+    width: 65px;
+    left: 1002px;
+    top: 93px;
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+.services{
+    position: absolute;
+    height: 30px;
+    width: 90px;
+    left: 1160px;
+    top: 90px;
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;    
+
+}
+.contacts{
+position: absolute;
+height: 31px;
+width: 101px;
+left: 1325px;
+top: 92px;
+font-family: Roboto;
+font-size: 20px;
+font-style: italic;
+font-weight: 700;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+
+}
+#waves{
+    position: absolute;
+    left: 0px;
+    top: 184px;
+    border-radius: 0px;
+    height: 620px;
+    width: 1440px;
+    }
+.aboutus{
+position: absolute;
+height: 101px;
+width: 1432px;
+left: 18px;
+top: 216px;
+font-family: 'Roboto';
+font-size: 20px;
+font-style: italic;
+font-weight: 700;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+
+
+}
+#lessons{
+position: absolute;
+height: 471px;
+width: 289px;
+left: 26px;
+top: 324px;
+font-family: 'Roboto';
+font-size: 20px;
+font-style: italic;
+font-weight: 700;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+#footer{
+position: absolute;
+height: 262px;
+width: 1440px;
+left: 0px;
+top: 762px;
+border-radius: 0px;
+background: #05667B;
+
+}
+#info{
+position: absolute;
+height: 194px;
+width: 520px;
+left: 26px;
+top: 813px;
+
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 23px;
+    text-align: left;
+    color: #000000;
+
+    
+}
+#beginner{
+ position: absolute;
+ width: 234px;
+ height: 262px;
+ left: 319px;
+ top: 354px ;
+}
+#surf{
+position: absolute;
+height: 298px;
+width: 274px;
+left: 690px;
+top: 354px;
+ background: #ffffff;
+ box-shadow: 0px 4px 4px rgba(0,0,0,0.25);  
+}
+#kids{
+ position: absolute;
+ left: 1038px;
+ top: 358px;   
 }
