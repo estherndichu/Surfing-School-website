@@ -9,7 +9,6 @@
 h1{
    position: absolute;
    width: 487px;
-   height: 61px;
    left: 411px;
    top: 27px;
    font: 'Ramemetto One';
@@ -42,12 +41,12 @@ ul>li{
     position: absolute;
     left: 0px;
     top: 184px;
-    border-radius: 0px;
     height: 620px;
     width: 1440px;
     }
-    .link{
+.link{
         font:'Roboto' ;
+        font-weight:bold ;
         size: 20px;
         position: absolute;
         top: 642px;
@@ -70,8 +69,7 @@ ul>li{
     }      
 
 #lessons{
-height: 471px;
-width: 289px;
+position: absolute;
 left: 26px;
 top: 324px;
 font-family: 'Roboto';
@@ -113,21 +111,22 @@ font-family: Roboto;
 font-style: italic;
 font-weight: bold;
 font-size: 20px;
+text-transform: uppercase;
+color: #000000;
+
+    }
+.info{
+position: absolute;
+left: 26px;
+top: 813px;
+font-family: 'Roboto';
+font-style: italic;
+font-weight: bold;
+font-size: 20px;
 line-height: 23px;
 
 color: #000000;
 
-    }
-#info{
-position: absolute;
-height: 194px;
-width: 520px;
-left: 26px;
-top: 813px;
-
-    
-
-    
 }
 .beginner{
  float: right;
