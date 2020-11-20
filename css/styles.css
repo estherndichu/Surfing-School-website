@@ -49,6 +49,7 @@ ul>li{
     .link{
         font:'Roboto' ;
         size: 20px;
+        position: absolute;
         top: 642px;
         left: 393px;
        }
@@ -69,7 +70,6 @@ ul>li{
     }      
 
 #lessons{
-position: absolute;
 height: 471px;
 width: 289px;
 left: 26px;
@@ -102,6 +102,7 @@ font-family: 'Roboto';
 
 }
 .branch{
+    float: right;
     position: absolute;
     width: 412px;
 height: 211px;
@@ -129,23 +130,22 @@ top: 813px;
     
 }
 .beginner{
+ float: right;
  position: absolute;
- width: 234px;
- height: 262px;
  left: 391px;
  top: 358px ;
  border: 1px solid #000000;
 }
 #surf{
+    float: right;
 position: absolute;
-height: 298px;
-width: 274px;
 left: 690px;
 top: 354px;
  background: #ffffff;
  box-shadow: 0px 4px 4px rgba(0,0,0,0.25);  
 }
 #kids{
+    float: right;
  position: absolute;
  left: 1038px;
  top: 358px;   
